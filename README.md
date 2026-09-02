@@ -1,2 +1,2 @@
-# Joule-Expansion-Simulation
-A simulation visually showing how real particles behave during a Joule Expansion, accompanied by a graph documenting the kinetic energy throughout. 
+# Joule-Expansion
+This project attempted to simulate a Joule-Expansion of a gas with a positive JT coefficient. The project began hoping to show how such a gas would cool upon expansion as the particles climbed out of the potential well caused by one another. Instead, this project became a case study in the limitations of simulation work for domestic use, and the difficulties that come with trying to demonstrate real world behaviour with code. The full report, covering the attempts made and what I'd do differently, is linked below.
